@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainApp/MainApp.iml" filepath="$PROJECT_DIR$/MainApp/MainApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PluginApp1/PluginApp1.iml" filepath="$PROJECT_DIR$/PluginApp1/PluginApp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/PluginApplication.iml" filepath="$PROJECT_DIR$/PluginApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/standard/standard.iml" filepath="$PROJECT_DIR$/standard/standard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/thirdpartyapplication/thirdpartyapplication.iml" filepath="$PROJECT_DIR$/thirdpartyapplication/thirdpartyapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PluginApplication-PluginApplication.iml" filepath="$PROJECT_DIR$/PluginApplication-PluginApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PluginLib/PluginLib.iml" filepath="$PROJECT_DIR$/PluginLib/PluginLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainApp/app.iml" filepath="$PROJECT_DIR$/MainApp/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PluginLib/standard.iml" filepath="$PROJECT_DIR$/PluginLib/standard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PluginApp1/thirdpartyapplication.iml" filepath="$PROJECT_DIR$/PluginApp1/thirdpartyapplication.iml" />
     </modules>
   </component>
 </project>

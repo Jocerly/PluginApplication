@@ -8,12 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/standard" />
-            <option value="$PROJECT_DIR$/thirdpartyapplication" />
+            <option value="$PROJECT_DIR$/MainApp" />
+            <option value="$PROJECT_DIR$/PluginApp1" />
+            <option value="$PROJECT_DIR$/PluginLib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
       </GradleProjectSettings>
     </option>
   </component>
